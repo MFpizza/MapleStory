@@ -4,7 +4,8 @@ Use java swing to make a MapleStory
 編譯 javac -d . main.java monster.java monster2.java monster3.java monster4.java monster5.java AePlayWave.java skillMusic.java hitMusic.java
 執行 java src.main
 
-或者直接運行MapleStory.jar (需java 但不用jdk)
+或者直接運行MapleStory.jar (需java 但不用jdk) 
+也可以運行  MapleStory.exe
 
 請切換為輸入法到只有英文
 方向鍵上下左右控制方向 (上下只有爬梯子的時候)
