@@ -1,5 +1,6 @@
 # MapleStory
-Use java swing to make a MapleStory
+- Use java swing to make a MapleStory
+- version: jdk9.0.4 / jdk1.8.0.251
 
 ### 編譯 
 ```
@@ -25,3 +26,12 @@ z:芬里爾墜擊
 ## note
 喔對 記得開聲音
 有放技能的音效跟怪物被打到還有死亡的音效
+
+## Update
+- 2020/06/20
+	- 上傳所有code
+
+## bug
+- 2020/06/20
+	- 左右走會有有latency
+	- 技能天怒以及傷害字行背景閃爍(推估跟去背網站有關)
